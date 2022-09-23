@@ -1,0 +1,22 @@
+.fut{
+    box-shadow: 0 -1px 3px rgb(0 0 0 / 10%),0 -2px 2px rgb(0 0 0 / 6%),0 0 2px rgb(0 0 0 / 7%)
+    
+}
+.fut ul{
+    color: rgba(0, 0, 0,0.58);
+}
+.fut Link:hover{
+    color: #1e3932;
+}
+
+.icon{
+    transition: 0.5s;
+}
+.icon:hover{
+    transition: 0.5s;
+    background-color: rgba(0, 0, 0,0.2);
+}
+
+.copy-right{
+    color: rgba(0, 0, 0, 0.58);
+}
